@@ -1,0 +1,65 @@
+.red{
+    background-color: cadetblue;
+    border: 2px solid red;
+    border-radius: 20px;
+    text-align: center;
+
+}
+.box{
+    background-color: yellow;
+}
+.yes{
+color: red;
+
+}
+.qwerty{
+    color: green;
+}
+.uio{
+    background-color: yellow;
+    text-align:center ;
+}
+.qwertyuiop{
+    background-color: black;
+    border-radius: 10px;
+    text-align: center;
+}
+.asdfgh{
+    width: 1000px;
+    height: 25px;
+}
+.zzzz{
+    background-color: cornflowerblue;
+    width: 300px;
+    height: 35px;
+    color: white;
+    font-size: 25px;
+}
+.dedrde{
+    background-color: yellow;
+    text-align: center;
+}
+.cars{
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 1000px;
+}
+.cars_list{
+    border: 1px solid black;
+}
+.blac{
+    background-color: green;
+    color: white;
+}
+.green{
+    background-color: blue;
+    color: white;
+}
+.boy{
+    background-color: red;
+    color: white;
+}
+.reter{
+    background-color: black;
+    color: white;
+}
